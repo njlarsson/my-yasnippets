@@ -3,4 +3,4 @@
 # key: hashs
 # group: new
 # --
-HashSet<${1:Type}> ${2:name} = new HashSet<$1>();
+Set<${1:Type}> ${2:name} = new HashSet<$1>();

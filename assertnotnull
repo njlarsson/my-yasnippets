@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assertNotNull
+# key: asnn
+# group: assert
+# --
+assertNotNull(${1:object});

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assertNotSame
+# key: asnsm
+# group: assert
+# --
+assertNotSame(${1:expected}, ${2:actual});

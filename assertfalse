@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assertFalse
+# key: asf
+# group: assert
+# --
+assertFalse(${1:condition});

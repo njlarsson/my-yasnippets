@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: throws IOException
+# key: catex
+# group: catch
+# --
+catch (${1:Caught}Exception ${2:e}) { $0 }

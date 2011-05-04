@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assertThat
+# key: ast
+# group: assert
+# --
+assertThat($0);

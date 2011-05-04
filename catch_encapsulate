@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: throws IOException
+# key: catenc
+# group: catch
+# --
+catch (${1:Caught}Exception ${2:e}) { throw new ${3:Enclosing}Exception($2); }
