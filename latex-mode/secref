@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: \ref{sec-}
+# key: sref
+# --
+\ref{sec-$1}

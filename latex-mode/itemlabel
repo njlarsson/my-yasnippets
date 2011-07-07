@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: item with label
+# key: itl
+# --
+\item\label{it-${1:`(indent-according-to-mode)`}} 
