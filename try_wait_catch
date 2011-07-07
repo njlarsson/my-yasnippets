@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: try { wait(); } catch (InterruptedException)
+# key: wait
+# group: catch
+# --
+try { wait(); } catch (InterruptedException e) { }

@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: throws IOException
+# name: catch(e) { }
 # key: catex
 # group: catch
 # --

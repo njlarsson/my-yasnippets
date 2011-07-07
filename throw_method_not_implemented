@@ -3,4 +3,4 @@
 # key: thrni
 # group: throw exception
 # --
-throw new UnsupportedOperationException("${1:method } not implemented");
+throw new UnsupportedOperationException("Not implemented");

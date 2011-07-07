@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: throw new IllegalStateException
+# key: thris
+# group: throw exception
+# --
+throw new IllegalStateException("$1");

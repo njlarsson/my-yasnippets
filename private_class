@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: private class
+# key: pric
+# --
+private class ${1:`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`} {
+$0
+}

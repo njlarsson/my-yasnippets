@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: throw new Exception
+# key: threx
+# group: throw exception
+# --
+throw new ${1:What}Exception("$2");
